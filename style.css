@@ -1,0 +1,89 @@
+ .body{
+  background-color: bisque;
+  align-items: center;
+  font-family: 'Times New Roman';
+  
+}
+.header-list :hover {
+  color: black;
+  font-family: 'Times New Roman';
+}
+.header-list li{
+  list-style: none;
+  float: left;
+  padding:12px 15px;
+  background-color:rgba(243, 243, 243, 0.973);
+  font-size: 15px;
+  font-family: 'Times New Roman';
+
+}
+.social{
+  text-align: right;
+  padding: 20px;
+  font-family: 'Times New Roman';
+  
+
+
+}
+.image{
+  padding-top:100px;
+  padding-left: 50%;
+
+}
+.heading h1{
+  color: rgb(247, 232, 27);
+  text-align: left;
+  padding: 60px;
+  font-family: 'Times New Roman';
+}
+.about h1{
+  color: rgba(235, 20, 163, 0.459);
+  text-align: center;
+  font-family: 'Times New Roman';
+  background-color: seashell;
+}
+.main{
+  color: rgb(0, 153, 255);
+  text-align: center;
+  background-color: pink;
+  background-attachment: color; 
+  padding: 100px 80px;
+  font-family: 'Times New Roman';
+}
+.heading h3{
+  color:rgb(47, 85, 255);
+  text-align: center;
+  background-color: rgba(221, 47, 47, 0.767);
+  padding: 40px;
+  font-family: 'Times New Roman';
+}
+.facebook{
+  text-align: left;
+  padding: 50px;
+  font-family: 'Times New Roman';
+}
+*, *:before, *:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: 808000;
+  font-family: 'Times New Roman';
+  
+}
+
+title {
+  font-family: 'Times New Roman', Times, serif
+}
+.Instagram {
+text-align: left;
+padding: 50px;
+}
+.copy-container span {
+  color:brown;
+}
+.background-image {
+opacity:0.5 ;
+}
